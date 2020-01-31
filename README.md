@@ -1,2 +1,2 @@
 # South-Rivers-Toolbox
-Predictive model of river morphodynamics to help in river management
+PPredictive model of river morphodynamics to support river management
